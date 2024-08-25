@@ -4,10 +4,10 @@
        for j in range(5):
          print(" * ",end="")
        print()
+       
+#output 
+* * * *
+* * * *
+* * * *
+* * * *
 
-    #if you run this you will get 
-    * * * *
-    * * * *
-    * * * *
-    * * * *
-    #output like this
